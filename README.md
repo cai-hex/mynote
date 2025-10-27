@@ -1,1 +1,1 @@
-# tradernote
+# mynote
